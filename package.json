@@ -1,5 +1,5 @@
 {
-  "name": "audi-landing-frontend",
+  "name": "wagner-kiosk",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -26,6 +26,8 @@
     "html-webpack-plugin": "^3.2.0",
     "node-sass": "^4.8.3",
     "normalize.css": "^8.0.1",
+    "postcss": "^7.0.17",
+    "postcss-loader": "^3.0.0",
     "raw-loader": "^0.5.1",
     "sass-loader": "^6.0.6",
     "webpack": "^4.5.0",
